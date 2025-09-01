@@ -19,7 +19,7 @@
     ╰─────────────────────────────────────╯
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-elykid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhhil07/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhlu07)
 
 </div>
@@ -127,13 +127,13 @@ Current_Projects:
 ┌─────────────────────────────────────────────────────────┐
 │  "In a world of infinite possibilities,                 │
 │   I code the bridges between imagination and reality."  │
-│                                          - Chandan      │
+│                                          - Nikhil      │
 └─────────────────────────────────────────────────────────┘
 ```
 
 ### 🔥 **Connect to the Network**
 
-[![LinkedIn Quantum Link](https://img.shields.io/badge/Establish_Neural_Link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-elykid/)
+[![LinkedIn Quantum Link](https://img.shields.io/badge/Establish_Neural_Link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhhil07/)
 [![GitHub Protocol Access](https://img.shields.io/badge/Access_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhlu07)
 
 </div>
