@@ -1,263 +1,387 @@
-# ⚡ QUANTUM MATRIX INITIALIZATION ⚡
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🔬 NEURAL CORTEX INTERFACE v4.7.2 - ACCESSING...                  ║
-║  🧠 SYNAPTIC PATHWAYS: ████████████████████████ 100% SYNCHRONIZED   ║
-║  🌌 QUANTUM ENTANGLEMENT: ESTABLISHED                               ║
-║  ⚡ POWER LEVELS: MAXIMUM                                           ║
-║  🔮 REALITY.EXE: LOADING DIGITAL ARCHITECT PROFILE...              ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
-
-```ascii
-    ██╗   ██╗██╗██████╗ ████████╗██╗   ██╗ █████╗ ██╗         
-    ██║   ██║██║██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██║         
-    ██║   ██║██║██████╔╝   ██║   ██║   ██║███████║██║         
-    ╚██╗ ██╔╝██║██╔══██╗   ██║   ██║   ██║██╔══██║██║         
-     ╚████╔╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗    
-      ╚═══╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝    
-                                                               
-     ██████╗ ██╗███╗   ███╗███████╗███╗   ██╗███████╗██╗ ██████╗ ███╗   ██╗
-     ██╔══██╗██║████╗ ████║██╔════╝████╗  ██║██╔════╝██║██╔═══██╗████╗  ██║
-     ██║  ██║██║██╔████╔██║█████╗  ██╔██╗ ██║███████╗██║██║   ██║██╔██╗ ██║
-     ██║  ██║██║██║╚██╔╝██║██╔══╝  ██║╚██╗██║╚════██║██║██║   ██║██║╚██╗██║
-     ██████╔╝██║██║ ╚═╝ ██║███████╗██║ ╚████║███████║██║╚██████╔╝██║ ╚████║
-     ╚═════╝ ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+<!-- ARC REACTOR HEADER -->
 ```
-
-## 🌌 **INTERDIMENSIONAL CODE ARCHITECT**
-### 🔬 **QUANTUM BLOCKCHAIN PIONEER | NEURAL WEB3 ENGINEER | REALITY HACKER**
-
+                          ▄▄▄████████▄▄▄
+                      ▄██████████████████▄
+                   ▄████▀▀          ▀▀████▄
+                 ▄███▀    ▄▄██████▄▄    ▀███▄
+               ▄██▀    ▄██▀▀    ▀▀██▄    ▀██▄
+              ███    ▄██▀   ▄██▄   ▀██▄    ███
+             ██▀   ▄██▀   ██████   ▀██▄   ▀██
+            ██▀   ███    ████████    ███   ▀██
+            ██   ███    ██████████    ███   ██
+            ██   ███    ██████████    ███   ██
+            ██   ███    ██████████    ███   ██
+            ██▄   ███    ████████    ███   ▄██
+             ██▄   ▀██▄   ██████   ▄██▀   ▄██
+              ███    ▀██▄   ▀██▀   ▄██▀    ███
+               ▀██▄    ▀██▄▄    ▄▄██▀    ▄██▀
+                 ▀███▄    ▀▀██████▀▀    ▄███▀
+                   ▀████▄▄          ▄▄████▀
+                      ▀██████████████████▀
+                          ▀▀▀████████▀▀▀
 ```
-⚡ ACCESSING CLASSIFIED SYSTEMS...
-🛸 DIMENSIONAL PORTAL: ACTIVE
-🌠 TIMELINE: 2025.09.01 - EARTH SECTOR 7
-🔮 STATUS: BUILDING TOMORROW'S INFRASTRUCTURE TODAY
-```
-
-[![Neural Link](https://img.shields.io/badge/🧠_NEURAL_LINK-ACTIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41)](https://www.linkedin.com/in/nikhhil07/)
-[![Quantum GitHub](https://img.shields.io/badge/⚡_QUANTUM_HUB-SYNCHRONIZED-ff0080?style=for-the-badge&labelColor=000000&color=ff0080)](https://github.com/nikhlu07)
-![Hologram Status](https://img.shields.io/badge/🌌_HOLOGRAM-ONLINE-00d4ff?style=for-the-badge&labelColor=000000&color=00d4ff)
-
+# `N I K H I L  S H A R M A`
+### _"I am Iron Man."_
+[![GitHub](https://img.shields.io/badge/GITHUB-nikhlu07-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
+[![Repos](https://img.shields.io/badge/REPOSITORIES-53-E62429?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07?tab=repositories)
+[![TypeScript](https://img.shields.io/badge/PRIMARY-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
+[![Python](https://img.shields.io/badge/SECONDARY-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
 </div>
-
 ---
-
-## 🚀 **GALACTIC MISSION CONTROL**
-
-```yaml
-╭──────────────────── INTERSTELLAR OPERATIONS ────────────────────╮
-│                                                                  │
-│  System_Status: 🌌 OPERATIONAL ACROSS MULTIPLE DIMENSIONS       │
-│  Neural_Network: 🧠 FULLY SYNCHRONIZED                          │
-│  Quantum_State: ⚡ SUPERPOSITION ACTIVE                         │
-│  Reality_Matrix: 🔮 INTEGRATION COMPLETE                        │
-│                                                                  │
-│  Current_Protocols:                                              │
-│    🔸 TransparencyX ──► "Piercing the veil of digital shadows"  │
-│    🔸 Axiom-Pay ──► "Transcending monetary dimensions"          │
-│    🔸 Credo ──► "Constructing Web3 trust algorithms"            │
-│    🔸 Veritas ──► "Truth verification across spacetime"         │
-│    🔸 StrideOn ──► "Physical-digital reality convergence"       │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
-
----
-
-## ⚡ **QUANTUM TECH ARSENAL**
-
 <div align="center">
-
-### 🛡️ **PRIMARY WEAPON SYSTEMS**
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    COMBAT READY                          ║
-╠═══════════════════════════════════════════════════════════╣
-║  TypeScript ██████████████████████████████████████ 98%   ║
-║  JavaScript ██████████████████████████████████████ 96%   ║
-║  Kotlin     ██████████████████████████████████████ 94%   ║
-║  Web3       ██████████████████████████████████████ 99%   ║
-║  Blockchain ██████████████████████████████████████ 97%   ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-![TypeScript](https://img.shields.io/badge/⚡_TYPESCRIPT-MASTERY-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/🔥_JAVASCRIPT-ENHANCED-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Kotlin](https://img.shields.io/badge/🚀_KOTLIN-QUANTUM-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
-
-### 🌌 **INTERDIMENSIONAL PROTOCOLS**
-
-![Ethereum](https://img.shields.io/badge/🔮_ETHEREUM-SYNCHRONIZED-627eea?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=000000)
-![Web3](https://img.shields.io/badge/🌐_WEB3-NATIVE-ff6b35?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=000000)
-![Smart Contracts](https://img.shields.io/badge/⚡_SMART_CONTRACTS-DEPLOYED-00ff88?style=for-the-badge&labelColor=000000)
-![DeFi](https://img.shields.io/badge/💎_DEFI-ARCHITECT-ff0080?style=for-the-badge&labelColor=000000)
-
-### 🛸 **NEURAL NETWORK INTERFACES**
-
-![React](https://img.shields.io/badge/🧠_REACT-NEURAL-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/⚡_NODE.JS-QUANTUM-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/🌌_GIT-TIMELINE-f05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-
-</div>
-
----
-
-## 🎯 **ACTIVE DIMENSIONAL PROTOCOLS**
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     🌌 MULTIVERSE REPOSITORIES 🌌                  │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🔮 CREDO          │ ⚡ Web3 Trust Matrix Revolution               │
-│  🔍 TRANSPARENCYX  │ 🌌 Quantum Transparency Engine               │
-│  💰 AXIOM-PAY      │ 🚀 Interdimensional Payment Protocol         │
-│  ✅ VERITAS        │ 🛸 Blockchain Truth Verification System      │
-│  🏃 STRIDEON       │ 🌠 Reality-Digital Convergence Game          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### 🌠 **CLASSIFIED MISSION FILES**
-
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                           TOP SECRET                                   ║
-║                      CLEARANCE LEVEL: OMEGA                           ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
-
-**🔮 PROJECT CREDO** - *Constructing the Trust Singularity*
-```
-► MISSION PARAMETERS:
-  Building foundational trust algorithms for next-gen finance
-  Analyzing quantum wallet signatures across parallel blockchains
-  Creating Web3-native neural credit scoring matrices
-  STATUS: 🌌 REALITY INTEGRATION: 85% COMPLETE
-```
-
-**⚡ PROJECT VERITAS** - *Truth Protocol Deployment*
-```
-► DIMENSIONAL SCOPE:
-  Blockchain-powered supply chain consciousness
-  Immutable truth verification across spacetime
-  Product histories encoded in quantum ledgers  
-  STATUS: 🛸 INTERDIMENSIONAL SYNC: ACTIVE
-```
-
-**🏃 PROJECT STRIDEON** - *Physical-Digital Convergence*
-```
-► REALITY PARAMETERS:
-  Gamifying Earth's surface through blockchain conquest
-  GPS-Web3 territorial control algorithms
-  Real-world movement powering virtual dominance
-  STATUS: 🌠 BETA UNIVERSE: DEPLOYED
-```
-
----
-
-## 🌌 **QUANTUM BIOMETRICS**
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────────╮
-│              🛸 NEURAL SCAN RESULTS 🛸                 │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Quantum Repositories: ████████████ CLASSIFIED         │
-│  Code Commits: ████████████████████ CONTINUOUS         │
-│  Innovation Frequency: ████████████ MAXIMUM            │
-│  Blockchain Mastery: ████████████ TRANSCENDENT         │
-│  Reality Manipulation: ████████████ GODLIKE            │
-│  Dimensional Status: 🌌 BUILDING TOMORROW               │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-![Holographic Stats](https://github-readme-stats.vercel.app/api?username=nikhlu07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff0080&text_color=00d4ff&ring_color=00ff41)
-
-![Neural Language Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlu07&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff88&text_color=00d4ff)
-
-### 🔥 **POWER LEVEL ANALYSIS**
-
-```ascii
-    ████████████████████████████████████████████████████
-    ██  SCANNING NEURAL PATHWAYS... STANDBY...        ██
-    ██                                                ██
-    ██  BLOCKCHAIN MASTERY:    ████████████████ 98%   ██
-    ██  QUANTUM COMPUTING:     ███████████████  95%   ██
-    ██  REALITY HACKING:       ████████████████ 97%   ██
-    ██  DIMENSIONAL CODING:    ███████████████  93%   ██
-    ██  WEB3 ARCHITECTURE:     █████████████████ 99%  ██
-    ██                                                ██
-    ██        🌌 POWER LEVEL: OVER 9000! 🌌           ██
-    ████████████████████████████████████████████████████
-```
-
-</div>
-
----
-
-## 🚀 **DIMENSIONAL SIGNATURE**
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║    "In the infinite expanse of the digital multiverse,           ║
-║     I forge pathways between impossible realms,                  ║
-║     weaving code that transcends the boundaries                  ║
-║     of imagination and reality."                                 ║
-║                                                                   ║
-║                           - Nikhil, Dimension Walker             ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-### ⚡ **ESTABLISH QUANTUM ENTANGLEMENT**
-
-[![🧠 Neural Link Established](https://img.shields.io/badge/🧠_NEURAL_LINK-SYNCHRONIZE_NOW-00ff41?style=for-the-badge&labelColor=000000&color=00ff41)](https://www.linkedin.com/in/nikhhil07/)
-[![⚡ Quantum Repository Access](https://img.shields.io/badge/⚡_QUANTUM_HUB-ACCESS_GRANTED-ff0080?style=for-the-badge&labelColor=000000&color=ff0080)](https://github.com/nikhlu07)
-[![🌌 Holographic Contact](https://img.shields.io/badge/🌌_HOLOGRAM-INITIATE_CONTACT-00d4ff?style=for-the-badge&labelColor=000000&color=00d4ff)]()
-
-</div>
-
----
-
-<div align="center">
-
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   🛸 TRANSMISSION FROM THE FUTURE COMPLETE 🛸                        ║
+║   ██╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗    ██╗   ██╗██████╗       ║
+║   ██║██╔══██╗██╔══██╗██║   ██║██║██╔════╝    ██║   ██║██╔══██╗      ║
+║   ██║███████║██████╔╝██║   ██║██║███████╗    ██║   ██║██████╔╝      ║
+║   ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║    ╚██╗ ██╔╝██╔═══╝      ║
+║   ██║██║  ██║██║  ██║ ╚████╔╝ ██║███████║     ╚████╔╝ ██║          ║
+║   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝      ╚═══╝  ╚═╝          ║
 ║                                                                      ║
-║   🌌 QUANTUM STATE: STABLE                                          ║
-║   ⚡ NEURAL NETWORK: SYNCHRONIZED                                    ║
-║   🔮 REALITY MATRIX: OPERATIONAL                                     ║
-║   🚀 DIMENSIONAL PORTAL: READY FOR COLLABORATION                    ║
-║                                                                      ║
-║              🌠 WELCOME TO THE NEXT DIMENSION 🌠                    ║
+║   Just A Rather Very Intelligent System — Initializing...            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-**⭐ Quantum entangle with repositories that resonate with your digital frequency ⭐**
-
-```ascii
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░  ⚡ END OF TRANSMISSION ⚡  🌌 NIKHIL.EXE 🌌  ░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
 </div>
+---
+## `> SYSTEM BOOT SEQUENCE`
+```js
+/**
+ * ⚡ S T A R K   I N D U S T R I E S — DEV DIVISION
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ * 
+ * OPERATOR:    Nikhil Sharma
+ * CALLSIGN:    nikhlu07
+ * CLEARANCE:   ████████████ FULL ACCESS
+ * ARC REACTOR: ████████████ 100% ONLINE
+ * STATUS:      Building the future, one repo at a time
+ */
+```
+```
+> Booting J.A.R.V.I.S. v7.0 ...
+> Loading developer profile ...
+> Scanning 53 repositories ...
+> Arc Reactor at full capacity ...
+> All systems nominal.
+Good morning, sir. All systems are online and ready.
+```
+---
+## `> DEVELOPER PROFILE // CLASSIFIED`
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   NAME ........... Nikhil Sharma                     │
+│   ALIAS .......... nikhlu07                          │
+│   ROLE ........... Full-Stack Engineer & Builder      │
+│   SPECIALTY ...... AI · Web3 · Voice Tech · DeFi     │
+│   STATUS ......... ● ONLINE                          │
+│                                                      │
+│   "Sometimes you gotta run before you can walk."     │
+│                          — Tony Stark                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+---
+## `> SUIT ARSENAL // TECH STACK`
+<div align="center">
+### ⚡ Primary Weapons Systems
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 🛡️ Defense Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔮 Advanced Protocols
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+</div>
+---
+## `> MISSION LOG // FEATURED PROJECTS`
+> _"The suit and I are one."_ Each project is a suit in the armory — purpose-built, battle-tested.
+<table>
+<tr>
+<td width="50%">
+### 🔴 [H.E.L.I.X](https://github.com/nikhlu07/H.E.L.I.X)
+```
+SUIT: Mark I — The Genesis Protocol
+TYPE: AI/Full-Stack System
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+High-performance system architecture
+with bleeding-edge AI integration.
+```
+</td>
+<td width="50%">
+### 🟡 [F.O.R.G.E.](https://github.com/nikhlu07/F.O.R.G.E.)
+```
+SUIT: Mark II — The Builder
+TYPE: Dev Framework / Platform
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Forging tools and systems from
+the ground up. Creation engine.
+```
+</td>
+</tr>
+<tr>
+<td width="50%">
+### 🔵 [S.P.A.R.K](https://github.com/nikhlu07/S.P.A.R.K)
+```
+SUIT: Mark III — The Ignition
+TYPE: Innovation / AI Engine
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Igniting ideas into reality.
+Where the spark of innovation lives.
+```
+</td>
+<td width="50%">
+### 🟢 [W.A.R.P.](https://github.com/nikhlu07/W.A.R.P.)
+```
+SUIT: Mark IV — The Accelerator
+TYPE: Performance / Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Bending time and space to deliver
+hyper-fast systems.
+```
+</td>
+</tr>
+<tr>
+<td width="50%">
+### 🟣 [M.U.T.A.T.E](https://github.com/nikhlu07/M.U.T.A.T.E)
+```
+SUIT: Mark V — The Shapeshifter
+TYPE: Adaptive Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Continuously evolving codebases.
+Mutation-driven development.
+```
+</td>
+<td width="50%">
+### ⚪ [R.A.T.C.H.E.T.](https://github.com/nikhlu07/R.A.T.C.H.E.T.)
+```
+SUIT: Mark VI — The Mechanic
+TYPE: Tooling / Infrastructure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The nuts and bolts. Infrastructure
+that holds everything together.
+```
+</td>
+</tr>
+</table>
+---
+## `> EXTENDED ARMORY`
+<div align="center">
+|
+ Codename 
+|
+ Mission 
+|
+ Link 
+|
+|
+:--------:
+|
+:--------
+|
+:----:
+|
+|
+**
+ARGOS
+**
+|
+ 👁️ All-seeing surveillance & monitoring system 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/ARGOS
+)
+|
+|
+**
+ANIMA
+**
+|
+ 🧬 Breathing life into digital experiences 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/ANIMA
+)
+|
+|
+**
+TRITON
+**
+|
+ 🔱 Deep-dive ocean of data processing 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/TRITON
+)
+|
+|
+**
+STELLAR
+**
+|
+ ⭐ Reaching for the stars in scale & ambition 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/STELLAR
+)
+|
+|
+**
+MAXIS
+**
+|
+ 🎯 Maximum output engineering systems 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/MAXIS
+)
+|
+|
+**
+Sentinel
+**
+|
+ 🛡️ Guarding the gates of digital security 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/Sentinel
+)
+|
+|
+**
+Credo
+**
+|
+ 📜 Trust-first decentralized identity 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/Credo
+)
+|
+|
+**
+BitStream
+**
+|
+ 💎 Streaming data in the blockchain era 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/BitStream
+)
+|
+|
+**
+Axiom-pay
+**
+|
+ 💳 Payment infrastructure redefined 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/Axiom-pay
+)
+|
+|
+**
+FitVault-AI
+**
+|
+ 🏋️ AI-powered fitness intelligence 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/FitVault-AI
+)
+|
+|
+**
+Crypst
+**
+|
+ 🔐 Cryptographic solutions vault 
+|
+[
+Deploy →
+](
+https://github.com/nikhlu07/Crypst
+)
+|
+</div>
+---
+## `> ARC REACTOR DIAGNOSTICS // GITHUB STATS`
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nikhlu07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E62429&icon_color=E62429&text_color=c9d1d9&ring_color=E62429" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nikhlu07&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429&sideLabels=c9d1d9&dates=555555" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlu07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E62429&text_color=c9d1d9" width="40%" />
+</div>
+---
+## `> CONTRIBUTION GRID // THE SNAP`
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhlu07&bg_color=0d1117&color=E62429&line=E62429&point=FFFFFF&area_color=E62429&area=true&hide_border=true&custom_title=N.I.K.H.I.L.%27s%20Contribution%20Grid%20—%20Powering%20Up" width="95%" />
+</div>
+---
+## `> COMMS CHANNEL`
+<div align="center">
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    "If you're nothing without the suit,                  ║
+║     then you shouldn't have it."                         ║
+║                                                          ║
+║    But I'm everything WITH my code.                      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+[![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-nikhlu07-E62429?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
+</div>
+---
+<div align="center">
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  J.A.R.V.I.S. — Session Active
+  "Will that be all, sir?"
+  "That'll be all, J.A.R.V.I.S. Stand down."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=80&section=footer" width="100%"/>
+</div>
+<!--
+  ██╗██████╗  ██████╗ ███╗   ██╗    ███╗   ███╗ █████╗ ███╗   ██╗
+  ██║██╔══██╗██╔═══██╗████╗  ██║    ████╗ ████║██╔══██╗████╗  ██║
+  ██║██████╔╝██║   ██║██╔██╗ ██║    ██╔████╔██║███████║██╔██╗ ██║
+  ██║██╔══██╗██║   ██║██║╚██╗██║    ██║╚██╔╝██║██╔══██║██║╚██╗██║
+  ██║██║  ██║╚██████╔╝██║ ╚████║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║
+  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+  
+  Built by Nikhil Sharma — Powered by the Arc Reactor
+-->
