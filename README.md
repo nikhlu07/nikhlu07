@@ -98,6 +98,12 @@ TypeScript project — building out the city, one module at a time.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhlu07&theme=dark&background=0d1117&border=E62429&ring=E62429&fire=E62429" alt="Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nikhlu07?label=Followers&style=for-the-badge&color=E62429&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nikhlu07&label=Public%20Repos&query=public_repos&style=for-the-badge&color=E62429&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/nikhlu07/H.E.L.I.X?label=H.E.L.I.X%20Stars&style=for-the-badge&color=E62429&labelColor=0d1117" />
+</p>
+
 ---
 
 <p align="center">
