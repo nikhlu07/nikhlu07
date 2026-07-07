@@ -1,288 +1,104 @@
 <div align="center">
-<!-- ARC REACTOR HEADER -->
-```
-```
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:7F1D1D,100:E11D48&height=220&section=header&text=Nikhil%20Sharma&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Developer%20Tools&descAlignY=58&descSize=18"
+    width="100%"
+    alt="Nikhil Sharma — Full-stack Engineer, AI Systems, Developer Tools"
+  />
 
-# `N I K H I L  S H A R M A`
-### _"I am Iron Man."_
+  <a href="https://github.com/nikhlu07">
+    <img src="https://img.shields.io/badge/GitHub-@nikhlu07-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: @nikhlu07" />
+  </a>
+  <a href="https://github.com/nikhlu07?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Projects-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nikhil's projects" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-nikhlu07-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
-[![Repos](https://img.shields.io/badge/REPOSITORIES-53-E62429?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07?tab=repositories)
-[![TypeScript](https://img.shields.io/badge/PRIMARY-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
-[![Python](https://img.shields.io/badge/SECONDARY-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
+  <br />
+  <br />
+
+<strong>Building useful software where product craft meets intelligent systems.</strong>
 
 </div>
 
----
+<br />
+
+## About
+
+I am a full-stack engineer focused on turning ambitious ideas into useful, reliable software. My work spans **AI-enabled applications, product-focused web platforms, developer tools, and decentralized systems**.
+
+I care about clear interfaces, maintainable architecture, and shipping work that solves a real problem—not just demos well.
+
+<br />
+
+## Featured Work
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗    ██╗   ██╗██████╗       ║
-║   ██║██╔══██╗██╔══██╗██║   ██║██║██╔════╝    ██║   ██║██╔══██╗      ║
-║   ██║███████║██████╔╝██║   ██║██║███████╗    ██║   ██║██████╔╝      ║
-║   ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║    ╚██╗ ██╔╝██╔═══╝      ║
-║   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝      ╚═══╝  ╚═╝          ║
-║                                                                      ║
-║   Just A Rather Very Intelligent System — Initializing...            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
+  <a href="https://github.com/nikhlu07/H.E.L.I.X">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=H.E.L.I.X&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="H.E.L.I.X. repository" />
+  </a>
+  <a href="https://github.com/nikhlu07/F.O.R.G.E.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=F.O.R.G.E.&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="F.O.R.G.E. repository" />
+  </a>
+  <br />
+  <a href="https://github.com/nikhlu07/S.P.A.R.K">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=S.P.A.R.K&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="S.P.A.R.K. repository" />
+  </a>
+  <a href="https://github.com/nikhlu07/W.A.R.P.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=W.A.R.P.&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="W.A.R.P. repository" />
+  </a>
 </div>
-
----
-
-## `> SYSTEM BOOT SEQUENCE`
-
-```js
-/**
- * ⚡ S T A R K   I N D U S T R I E S — DEV DIVISION
- * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- * 
- * OPERATOR:    Nikhil Sharma
- * CALLSIGN:    nikhlu07
- * CLEARANCE:   ████████████ FULL ACCESS
- * ARC REACTOR: ████████████ 100% ONLINE
- * STATUS:      Building the future, one repo at a time
- */
-```
-
-```
-> Booting J.A.R.V.I.S. v7.0 ...
-> Loading developer profile ...
-> Scanning 53 repositories ...
-> Arc Reactor at full capacity ...
-> All systems nominal.
-
-Good morning, sir. All systems are online and ready.
-```
-
----
-
-## `> DEVELOPER PROFILE // CLASSIFIED`
-
-```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   NAME ........... Nikhil Sharma                     │
-│   ALIAS .......... nikhlu07                          │
-│   ROLE ........... Full-Stack Engineer & Builder      │
-│   SPECIALTY ...... AI · Web3 · Voice Tech · DeFi     │
-│   STATUS ......... ● ONLINE                          │
-│                                                      │
-│   "Sometimes you gotta run before you can walk."     │
-│                          — Tony Stark                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-## `> SUIT ARSENAL // TECH STACK`
 
 <div align="center">
-
-### ⚡ Primary Weapons Systems
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🛡️ Defense Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔮 Advanced Protocols
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+  <sub>More experiments and systems: <a href="https://github.com/nikhlu07?tab=repositories">browse all repositories →</a></sub>
 </div>
 
----
+<br />
 
-## `> MISSION LOG // FEATURED PROJECTS`
+## Toolkit
 
-> _"The suit and I are one."_ Each project is a suit in the armory — purpose-built, battle-tested.
+<div align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,fastapi,supabase,redis,docker,gcp,kubernetes&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, Supabase, Redis, Docker, Google Cloud, Kubernetes" />
+  </a>
+</div>
 
 <table>
-<tr>
-<td width="50%">
-
-### 🔴 [H.E.L.I.X](https://github.com/nikhlu07/H.E.L.I.X)
-```
-SUIT: Mark I — The Genesis Protocol
-TYPE: AI/Full-Stack System
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-High-performance system architecture
-with bleeding-edge AI integration.
-```
-
-</td>
-<td width="50%">
-
-### 🟡 [F.O.R.G.E.](https://github.com/nikhlu07/F.O.R.G.E.)
-```
-SUIT: Mark II — The Builder
-TYPE: Dev Framework / Platform
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Forging tools and systems from
-the ground up. Creation engine.
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔵 [S.P.A.R.K](https://github.com/nikhlu07/S.P.A.R.K)
-```
-SUIT: Mark III — The Ignition
-TYPE: Innovation / AI Engine
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Igniting ideas into reality.
-Where the spark of innovation lives.
-```
-
-</td>
-<td width="50%">
-
-### 🟢 [W.A.R.P.](https://github.com/nikhlu07/W.A.R.P.)
-```
-SUIT: Mark IV — The Accelerator
-TYPE: Performance / Systems
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Bending time and space to deliver
-hyper-fast systems.
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🟣 [M.U.T.A.T.E](https://github.com/nikhlu07/M.U.T.A.T.E)
-```
-SUIT: Mark V — The Shapeshifter
-TYPE: Adaptive Systems
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Continuously evolving codebases.
-Mutation-driven development.
-```
-
-</td>
-<td width="50%">
-
-### ⚪ [R.A.T.C.H.E.T.](https://github.com/nikhlu07/R.A.T.C.H.E.T.)
-```
-SUIT: Mark VI — The Mechanic
-TYPE: Tooling / Infrastructure
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-The nuts and bolts. Infrastructure
-that holds everything together.
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Frontend</strong><br />
+      TypeScript · React · Next.js
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend & Data</strong><br />
+      Node.js · Python · FastAPI · Supabase · Redis
+    </td>
+    <td width="33%" valign="top">
+      <strong>Infrastructure</strong><br />
+      Docker · Google Cloud · Kubernetes
+    </td>
+  </tr>
 </table>
 
----
+<br />
 
-## `> EXTENDED ARMORY`
-
-<div align="center">
-
-| Codename | Mission | Link |
-|:--------:|:--------|:----:|
-| **ARGOS** | 👁️ All-seeing surveillance & monitoring system | [Deploy →](https://github.com/nikhlu07/ARGOS) |
-| **ANIMA** | 🧬 Breathing life into digital experiences | [Deploy →](https://github.com/nikhlu07/ANIMA) |
-| **TRITON** | 🔱 Deep-dive ocean of data processing | [Deploy →](https://github.com/nikhlu07/TRITON) |
-| **STELLAR** | ⭐ Reaching for the stars in scale & ambition | [Deploy →](https://github.com/nikhlu07/STELLAR) |
-| **MAXIS** | 🎯 Maximum output engineering systems | [Deploy →](https://github.com/nikhlu07/MAXIS) |
-| **Sentinel** | 🛡️ Guarding the gates of digital security | [Deploy →](https://github.com/nikhlu07/Sentinel) |
-| **Credo** | 📜 Trust-first decentralized identity | [Deploy →](https://github.com/nikhlu07/Credo) |
-| **BitStream** | 💎 Streaming data in the blockchain era | [Deploy →](https://github.com/nikhlu07/BitStream) |
-| **Axiom-pay** | 💳 Payment infrastructure redefined | [Deploy →](https://github.com/nikhlu07/Axiom-pay) |
-| **FitVault-AI** | 🏋️ AI-powered fitness intelligence | [Deploy →](https://github.com/nikhlu07/FitVault-AI) |
-| **Crypst** | 🔐 Cryptographic solutions vault | [Deploy →](https://github.com/nikhlu07/Crypst) |
-
-</div>
-
----
-
-## `> ARC REACTOR DIAGNOSTICS // GITHUB STATS`
+## GitHub Snapshot
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikhlu07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E62429&icon_color=E62429&text_color=c9d1d9&ring_color=E62429" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nikhlu07&theme=radical&hide_border=true&background=0D1117&ring=E62429&fire=E62429&currStreakLabel=E62429&sideLabels=c9d1d9&dates=555555" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlu07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E62429&text_color=c9d1d9" width="40%" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nikhlu07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48&rank_icon=github"
+    height="165"
+    alt="Nikhil's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlu07&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8"
+    height="165"
+    alt="Nikhil's most-used programming languages"
+  />
 </div>
 
----
-
-## `> CONTRIBUTION GRID // THE SNAP`
+<br />
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhlu07&bg_color=0d1117&color=E62429&line=E62429&point=FFFFFF&area_color=E62429&area=true&hide_border=true&custom_title=N.I.K.H.I.L.%27s%20Contribution%20Grid%20—%20Powering%20Up" width="95%" />
-
+  <sub>Build deliberately. Keep it simple. Ship what matters.</sub>
 </div>
 
----
-
-## `> COMMS CHANNEL`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║    "If you're nothing without the suit,                  ║
-║     then you shouldn't have it."                         ║
-║                                                          ║
-║    But I'm everything WITH my code.                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-nikhlu07-E62429?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/nikhlu07)
-
-</div>
-
----
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  J.A.R.V.I.S. — Session Active
-  "Will that be all, sir?"
-  "That'll be all, J.A.R.V.I.S. Stand down."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=80&section=footer" width="100%"/>
-
-</div>
-
-<!--
-  ██╗██████╗  ██████╗ ███╗   ██╗    ███╗   ███╗ █████╗ ███╗   ██╗
-  ██║██╔══██╗██╔═══██╗████╗  ██║    ████╗ ████║██╔══██╗████╗  ██║
-  ██║██████╔╝██║   ██║██╔██╗ ██║    ██╔████╔██║███████║██╔██╗ ██║
-  ██║██╔══██╗██║   ██║██║╚██╗██║    ██║╚██╔╝██║██╔══██║██║╚██╗██║
-  ██║██║  ██║╚██████╔╝██║ ╚████║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-  
-  Built by Nikhil Sharma — Powered by the Arc Reactor
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,55:7F1D1D,100:0B0F19&height=100&section=footer" width="100%" alt="" />
