@@ -1,104 +1,110 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:7F1D1D,100:E11D48&height=220&section=header&text=Nikhil%20Sharma&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Developer%20Tools&descAlignY=58&descSize=18"
-    width="100%"
-    alt="Nikhil Sharma — Full-stack Engineer, AI Systems, Developer Tools"
-  />
+<h1 align="center">🕷️ NIKHIL SHARMA 🕸️</h1>
+<h3 align="center">Friendly Neighborhood Full-Stack & Blockchain Dev</h3>
 
-  <a href="https://github.com/nikhlu07">
-    <img src="https://img.shields.io/badge/GitHub-@nikhlu07-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: @nikhlu07" />
-  </a>
-  <a href="https://github.com/nikhlu07?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nikhil's projects" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility;Web-slinging+through+TypeScript+%26+Kotlin;Building+dApps+one+web+at+a+time;Currently+hunting+bugs+%2F+villains" alt="Typing SVG" />
+</p>
 
-  <br />
-  <br />
+---
 
-<strong>Building useful software where product craft meets intelligent systems.</strong>
+### 🕸️ Origin Story
 
-</div>
+> Bitten by a radioactive `npm install`, I gained the power to swing between frontend, backend, and the blockchain — sticking to whatever stack the mission requires.
 
-<br />
+- 🏙️ Based in the concrete jungle, slinging code instead of webs
+- 🔗 Deep into **Web3 / blockchain** and decentralized systems
+- 🧠 Currently building AI-powered fraud detection for government procurement (because even Spidey needs backup fighting corruption)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nikhhil07/) — for the days I wear the suit *without* the mask
 
-## About
+---
 
-I am a full-stack engineer focused on turning ambitious ideas into useful, reliable software. My work spans **AI-enabled applications, product-focused web platforms, developer tools, and decentralized systems**.
+### 🧰 Web-Shooter Loadout (Tech Stack)
 
-I care about clear interfaces, maintainable architecture, and shipping work that solves a real problem—not just demos well.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/ICP-3B00B9?style=for-the-badge&logo=internet-computer&logoColor=white" />
+</p>
 
-<br />
+---
 
-## Featured Work
-
-<div align="center">
-  <a href="https://github.com/nikhlu07/H.E.L.I.X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=H.E.L.I.X&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="H.E.L.I.X. repository" />
-  </a>
-  <a href="https://github.com/nikhlu07/F.O.R.G.E.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=F.O.R.G.E.&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="F.O.R.G.E. repository" />
-  </a>
-  <br />
-  <a href="https://github.com/nikhlu07/S.P.A.R.K">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=S.P.A.R.K&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="S.P.A.R.K. repository" />
-  </a>
-  <a href="https://github.com/nikhlu07/W.A.R.P.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhlu07&repo=W.A.R.P.&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48" alt="W.A.R.P. repository" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>More experiments and systems: <a href="https://github.com/nikhlu07?tab=repositories">browse all repositories →</a></sub>
-</div>
-
-<br />
-
-## Toolkit
-
-<div align="center">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,fastapi,supabase,redis,docker,gcp,kubernetes&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, Supabase, Redis, Docker, Google Cloud, Kubernetes" />
-  </a>
-</div>
+### 🕷️ Cases from the Case Files (Featured Projects)
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Frontend</strong><br />
-      TypeScript · React · Next.js
-    </td>
-    <td width="33%" valign="top">
-      <strong>Backend & Data</strong><br />
-      Node.js · Python · FastAPI · Supabase · Redis
-    </td>
-    <td width="33%" valign="top">
-      <strong>Infrastructure</strong><br />
-      Docker · Google Cloud · Kubernetes
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**🕸️ [Veritas](https://github.com/nikhlu07/veritas)**
+Blockchain-based supply chain verification — tracking the truth through every link, like following footprints across rooftops.
+
+</td>
+<td width="50%">
+
+**🎯 [H.E.L.I.X](https://github.com/nikhlu07/H.E.L.I.X)**
+AI + ICP blockchain system to sniff out government procurement fraud. Spidey-sense for corruption.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌐 [M.E.R.I.D.I.A.N.](https://github.com/chandan989/M.E.R.I.D.I.A.N.)**
+Decentralized data marketplace for digital identity & data sovereignty — a team-up mission.
+
+</td>
+<td width="50%">
+
+**🔁 [Loopin](https://github.com/chandan989/Loopin)**
+A collaborative TypeScript build — because even Spider-Man needs an occasional Avengers assist.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧬 [M.U.T.A.T.E](https://github.com/nikhlu07/M.U.T.A.T.E)**
+Experimental TypeScript project — mutating ideas into code.
+
+</td>
+<td width="50%">
+
+**🏙️ [MAXIS](https://github.com/nikhlu07/MAXIS)**
+TypeScript project — building out the city, one module at a time.
+
+</td>
+</tr>
 </table>
 
-<br />
+---
 
-## GitHub Snapshot
+### 🏆 Trophy Wall (GitHub Achievements)
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nikhlu07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8&icon_color=E11D48&rank_icon=github"
-    height="165"
-    alt="Nikhil's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhlu07&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=94A3B8"
-    height="165"
-    alt="Nikhil's most-used programming languages"
-  />
-</div>
+<p align="center">
+  🕸️ Pair Extraordinaire &nbsp;|&nbsp; ⚡ Quickdraw &nbsp;|&nbsp; 🎯 YOLO &nbsp;|&nbsp; 🦈 Pull Shark
+</p>
 
-<br />
+---
 
-<div align="center">
-  <sub>Build deliberately. Keep it simple. Ship what matters.</sub>
-</div>
+### 📊 Spidey Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,55:7F1D1D,100:0B0F19&height=100&section=footer" width="100%" alt="" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhlu07&show_icons=true&theme=dark&title_color=E62429&icon_color=E62429&text_color=ffffff&bg_color=0d1117&border_color=E62429" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhlu07&theme=dark&background=0d1117&border=E62429&ring=E62429&fire=E62429" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>Whatever life holds in store for me, I will never forget one lesson:<br/>
+  with great power comes great responsibility — and with great code, great commits.</i>
+</p>
+
+<p align="center">
+  🕸️ Thanks for swinging by! 🕸️
+</p>
