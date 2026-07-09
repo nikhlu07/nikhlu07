@@ -2,7 +2,7 @@
 <h3 align="center">Friendly Neighborhood Full-Stack & Blockchain Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility;Web-slinging+through+TypeScript+%26+Kotlin;Building+dApps+one+web+at+a+time;Currently+hunting+bugs+%2F+villains" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility:Building+dApps+one+web+at+a+time; alt="Typing SVG" />
 </p>
 
 ---
