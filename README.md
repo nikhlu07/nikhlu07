@@ -2,52 +2,48 @@
 
 <p align="center">
   <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Founding+Engineer+%7C+Product+Builder;AI+Systems+%2B+Web3+Infrastructure"
-  alt="Typing SVG"
-/>
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Founding+Engineer+%7C+Product+Builder;AI+Systems+%2B+Web3+Infrastructure"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-```
-%%%%%%%%%%%%%%#+=====================+#%%%%%%%%%%%%%%%%%   nikhhils07@gmail.com
-%%%%%%%%%%%%#*+====+==+====+*+========+#%%%%%%%%##%%%%%%   -------------
-%%%%%%%%%%%#+=======*##****##*++++==--=+############%%##   Role:              Founding Engineer / Product
-%%%%%%%%%%*+=====++#%%@%%@@@%%%###++==-=+*##############                      Builder / AI Systems
-%%%%%%%%#+==+*###%@@@@@@@@@@@@@%*##**+=-==*#############   Company:           Co-Founder @ Hi-Influence
-%%%%%%%*+==#%%%@@@@@@@@@@@@%%%%%##%###+---=*############   Education:         B.E. CSE (AIML), Chandigarh
-%%%%%#*+++%@@@@@@@@@@@@%%#++=++***#%%@#=---=*###########                      University
-%%%%#+=#%%@@@@@@@@@@@@%%%##+-::::::--##===--=*##########   
-%%#*++*@@@@@@@@@@@@@%%%%#+=-:--=++*==##+++*=-=*#########   Languages:         Python, TypeScript, Rust,
-%#*==+%%@@@@@@@@@@@@@%#+--=*##*==+*#%*=--+#*===*########                      Go, Solidity, C++
-#+===*%@@@@@@@@@@@@@@%*=+#%#==+*====*+::::-*+-==*#######   Frontend:          React, Next.js, Tailwind CSS
-+==+##%@@@@@@@@@@@@@%%#%%##=::::-==-=+=:--:+=====*######   Backend:           Node.js, Express, PostgreSQL,
-===%@@@@@@@@@@@@@@@@@@@*+=----:......-=-==========+#####                      MongoDB
-===+#%@@@@@@@@@@@@@@@@%*====-:....  ..-=--=========+####   AI/ML:             LangChain, OpenAI API,
-===+++#@@@@@@@%##*=*%%@%#++++=:...:.:===----========+###                      TensorFlow, PyTorch, RAG
-======#@@@@@@@=+-+**==#%%##**+=-----:-...:-=-========+##   Web3:              Ethereum, Solidity, Hedera,
-======*@@@@@@@=+:.*#*--*##%#*+----=----:.....-========*#                      Stacks, ICP, IPFS
-======++#@@@@@@%#=-=::-#%%%%#*++++==+*+++++=+*+========+   
-=========+#@@@@@@@%%##%%%%@@@%%%%%%%%%@%@@%%#*==========   Contact.Email:     nikhhils07@gmail.com
-===========+*%@@@@@@%%%#%%%@@@@@@@@@@@@@%*+=============   Contact.LinkedIn:  linkedin.com/in/nikhhil07
-==============#@@@@@%%#+==+*##%%%%%%%##*================   Contact.GitHub:    github.com/nikhlu07
-===============+#@@@@@@%*+--::-=**++=---================   
-=================+%@@@@@@@@@#*+==----::=================   
-=================#@@@@@@@@@@@@@@@%%#***%*===============   
-================#@%%%%%@@@@@@@@@@@@@@@@%+===============   
-==============+#@%%%%%%%%@@@@@@@@@@@@@%=================   
-===========+*%%%%%%####%#%%@@@@@@@@@@@#=================   
-=========+#%%%%%%%%%#######%@@@@@@@@@@%+================   
-======+*#%%%%%%%%%#%%%#######%@@@@@@@%@@*+==============   
-+===+#%%%%%%%%%%####%%%%%%####%%%%%%%%%%@%*+============   
-==+#%%%%%%%%%%##########%%######%%%%%%%%%@%##+==========   
-*%@@@@@%%%%%%###########@%#######%%%%%%%%%@%##+=========   
-@@@@@@@@@@%%%###########%@%#######%%%%%%%%%@%##=========   
-@@@@@@@@@%%%%%############%@%######%%%%%%%%%@%#+========   
-@@@@@@@@@%%%%%%%%%#########%@%#####%%%%%%%%%@@%#+=======   
-@@@@@@@@@@@%%%%%%%%%#%%%%%###%@%####%%%%%%%%%@@%#=======   
-@@@@@@@@@@%%%%%%%%%%%%%%%%%%##%@%####%%%%%%%%%@@%*======   
-@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%@%####%%@%%@%%%@@%*====+   
+```text
+                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄                     nikhhils07@gmail.com
+                ▄████████████████████▄                  ---------------------
+             ▄██████████████████████████▄
+           ▄████████████████████████████████▄           Role:       Founding Engineer /
+          █████████████████████████████████████                      Product Builder
+         ███████████▀▀▀▀▀▀█████████████████████
+        █████████▀           ▀███████████████████        Company:    Co-Founder @ Hi-Influence
+       ████████▀    ▄▄▄▄▄      ▀████████████████
+      ████████    ▄████████▄      ██████████████         Education:  B.E. CSE (AIML)
+      ███████    ████████████      █████████████                     Chandigarh University
+      ██████    ██████████████      ████████████
+      █████    ████▀     ▀████       ███████████         Languages:  Python, TypeScript, Rust,
+      █████    ███          ███       ███████████                     Go, Solidity, C++
+      ████     ██   ▄▄▄▄     ██        █████████
+      ████    ▄██──██████────██▄       █████████         Frontend:   React, Next.js, Tailwind CSS
+      ████   ████████████████████      █████████
+       ███   ████▀████████▀██████      ████████          Backend:    Node.js, Express,
+       ███    ███  ▀████▀   ████       ███████                       PostgreSQL, MongoDB
+        ██▄    ██▄         ▄███       ▄███████
+         ███    ▀██▄▄▄▄▄▄▄██▀        ████████           AI / ML:    LangChain, OpenAI API,
+          ███▄     ▀▀███▀▀         ▄████████                         TensorFlow, PyTorch, RAG
+           █████▄              ▄▄▄████████
+             ███████▄▄▄▄▄▄███████████████                Web3:       Ethereum, Solidity, Hedera,
+                ▀█████████████████████▀                               Stacks, ICP, IPFS
+                     ▀▀██████▀▀
+                         ██                               Contact:
+                        ████                              Email:       nikhhils07@gmail.com
+                       ██████                             LinkedIn:    linkedin.com/in/nikhhil07
+                    ▄██████████▄                          GitHub:      github.com/nikhlu07
+                 ▄████████████████▄
+              ▄██████████████████████▄
+           ▄████████████████████████████▄
+        ▄██████████████████████████████████▄
+       ██████████████████████████████████████
 ```
 
 ---
@@ -118,11 +114,13 @@
 ### 💼 Field Reports (Work Experience)
 
 **Co-Founder & Product Engineer** — Hi-Influence, India · *2025 – Present*
+
 - Built AI-powered content generation workflows producing 100+ multimodal assets across social and advertising
 - Worked with 2+ clients and generated ₹1L+ revenue through AI-driven content production and automation systems
 - Developed scalable workflows spanning AI image generation, video generation, and campaign delivery
 
 **AI Software Engineer Intern** — PROwth, Udaipur, India · *Jul 2024 – Dec 2024*
+
 - Built workflow automation systems and integrations supporting enterprise operational pipelines
 - Improved platform usability through dashboard and CMS development for internal operational teams
 - Optimized AI-generation workflows through testing, automation, and performance evaluation
@@ -136,26 +134,31 @@
 <td width="50%">
 
 **🎮 [Loopin](https://github.com/nikhlu07/Loopin) — Gamified Fitness Platform**
+
 Validated through a $5,000 hackathon prize and a $3,000 grant secured in 2026. Beta-tested with 50+ users to optimize onboarding, engagement, and retention.
 
 </td>
 <td width="50%">
 
 **🌐 [M.E.R.I.D.I.A.N.](https://github.com/nikhlu07/M.E.R.I.D.I.A.N.) — Decentralized Data Marketplace**
+
 Lets users keep ownership and control of their digital identity and personal data, with trustless, consent-driven, privacy-preserving data exchange.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
 **🤖 [MAXIS](https://github.com/nikhlu07/MAXIS) — Agent-Commerce Infrastructure**
+
 AI-agent commerce infrastructure enabling autonomous storefront interactions, multi-stage retrieval/reasoning workflows, and automated transaction execution.
 
 </td>
 <td width="50%">
 
 **🕸️ [Veritas](https://github.com/nikhlu07/Veritas) — Blockchain Supply Chain Verification**
+
 Event-driven, blockchain-based supply-chain verification improving transparency and product traceability. 3rd Place at Hedera Hello Future Origins.
 
 </td>
@@ -182,8 +185,10 @@ Event-driven, blockchain-based supply-chain verification improving transparency 
 ---
 
 <p align="center">
-  <i>Whatever life holds in store for me, I will never forget one lesson:<br/>
-  with great power comes great responsibility — and with great code, great commits.</i>
+  <i>
+    Whatever life holds in store for me, I will never forget one lesson:<br/>
+    with great power comes great responsibility — and with great code, great commits.
+  </i>
 </p>
 
 <p align="center">
